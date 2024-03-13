@@ -6,5 +6,7 @@ plotly
 # json
 matplotlib
 seaborn
+pyarrow
+requests
 
 -e .
